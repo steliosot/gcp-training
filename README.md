@@ -10,7 +10,7 @@ The workshop will be conducted in person, and a recording will be shared afterwa
 
 * **Malet Street 404-405**
 
-Ensure timely arrival, and remember to bring your laptop. Other than basic knowledge of Python, no prior expertise is needed— just bring your positive Friday energy!
+Ensure timely arrival, and remember to bring your laptop. Apart from a basic understanding of Python, no other prior knowledge is required—just come with your enthusiastic Friday vibe!
 
 Please follow the guidelines provided at the end of this document to claim your $50 voucher.
 
