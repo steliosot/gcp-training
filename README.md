@@ -4,7 +4,7 @@ This tutorial offers a practical learning experience on navigating the GCP platf
 
 The workshop will be conducted in person, and a recording will be shared afterwards.
 
-* **Date: Friday 5th of April**
+* **Date: Friday 12th of April**
 
 * **Time: 11am -1pm**
 
